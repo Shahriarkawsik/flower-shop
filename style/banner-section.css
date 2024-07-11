@@ -1,0 +1,24 @@
+.banner {
+  height: 680px;
+  background-color: rgba(229, 84, 115, 0.1);
+  padding: 0 192px;
+  display: flex;
+  align-items: center;
+}
+
+.banner-title {
+  color: rgb(39, 39, 39);
+  font-size: 64px;
+  font-weight: 800;
+  line-height: 76.8px;
+}
+
+.banner-subtitle {
+  margin: 25.6px 0;
+}
+
+.banner-img {
+  width: 508px;
+  height: 640px;
+  margin: 40px 0 0 77.6px;
+}

@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+:root {
+  --btn-color: rgb(229, 84, 115);
+}
+
+.lato-font {
+  font-family: "Lato";
+}
+
+.btn {
+  padding: 16px 34.4px;
+  border-radius: 8px;
+  background: var(--btn-color);
+  border: none;
+  cursor: pointer;
+  transition: 0.4s linear;
+}
+
+.btn:hover {
+  background-color: rgba(229, 84, 115, 0.3);
+  transform: scale(0.95);
+}
+
+.btn a {
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 19.2px;
+  text-decoration: none;
+}
+
+.section-title {
+  color: rgb(39, 39, 39);
+  font-size: 32px;
+  font-weight: 800;
+  line-height: 38.4px;
+}
+
+.section-subtitle {
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 14.4px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+main section {
+  margin: 102.4px 192px;
+}
+
+.center-align {
+  text-align: center;
+}
