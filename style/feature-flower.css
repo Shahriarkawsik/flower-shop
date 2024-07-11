@@ -1,0 +1,49 @@
+.feature-subtitle {
+  margin: 19.2px 0 38.4px;
+}
+.flower-card-container{
+  display: flex;
+  gap: 19.2px;
+}
+.flower-card{
+  width: 371.2px;
+  height: 484px;
+}
+.flower-card-img{
+  width: 371.2px;
+  height: 430.4px;
+  border-radius: 300px 300px 0px 0px;
+}
+.flower-card-name{
+  margin-top: 25.6px;
+  color: rgb(39, 39, 39);
+  font-size: 19.2px;
+  font-weight: 700;
+  line-height: 28px;
+  text-decoration-line: underline;
+}
+.flower-img-1{
+  background: rgba(167, 33, 98, 0.15);
+  padding: 88px 62.4px 0 60.8px;
+}
+.flower-img-1 img{
+  width: 248px;
+  height: 342.4px;
+}
+
+.flower-img-2{
+  background: rgba(5, 151, 160, 0.15);
+  padding: 88px 37.6px  40.8px;
+}
+.flower-img-2 img{
+  width: 296px;
+  height: 296px;
+}
+.flower-img-3{
+  background: rgba(71, 125, 17, 0.15);
+  padding: 53.6px 60px 0;
+}
+.flower-img-3 img{
+  width: 251.2px;
+  height: 376.8px;
+}
